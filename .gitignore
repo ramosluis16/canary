@@ -368,21 +368,16 @@ tasks.json
 
 ## CUSTOM
 # Files
-config.lua
 client_assertions.txt
 # Extensions
 *.ini
-*.otb
-*.exe
 *.manifest
-*.otbm
 *.rar
 
 # SFTP for Sublime
 sftp-config.json
 
 # Binaries
-canary
 canary.old
 
 # VCPKG
